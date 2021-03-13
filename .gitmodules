@@ -1,0 +1,6 @@
+[submodule "Coruja/vendor/libfacedetection"]
+	path = Coruja/vendor/libfacedetection
+	url = https://github.com/ShiqiYu/libfacedetection.git
+[submodule "Coruja/vendor/openpnp-capture"]
+	path = Coruja/vendor/openpnp-capture
+	url = https://github.com/jacson-junior/openpnp-capture

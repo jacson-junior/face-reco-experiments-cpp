@@ -1,0 +1,14 @@
+# Binaries
+**/bin/
+!vendor/premake5/
+bin-int/
+
+# Visual Studio files and folder
+.vs/
+**.sln
+**.vcxproj
+**.vcxproj.filters
+**.vcxproj.user
+
+# Makefiles
+Makefile
